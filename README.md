@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mohammed moussaoui
+👋 Hi, I’m mohammed moussaoui
 🌱 I’m currently learning about k8s and oci
 💬 I'm a software engineer
 👯 I’m looking to collaborate on interesting projects in the software field
